@@ -52,7 +52,7 @@
     "url": "https://github.com/bitpay/cordova-plugin-qrscanner/issues"
   },
   "homepage": "https://github.com/bitpay/cordova-plugin-qrscanner",
-  "main": "dist/cordova-plugin-qrscanner-lib.min.js",
+  "main": "dist/cordova-plugin-qrscanner-1-lib.min.js",
   "dependencies": {
     "qrcode-reader": "^1.0.4",
     "webrtc-adapter": "^3.1.4"
